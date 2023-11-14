@@ -5,7 +5,7 @@
        "labels": ["oldies"]
     },
      {
-      "matchCurrentAge": "< 1 year",
+      "matchCurrentAge": "< 6 months",
       "labels": ["newbies"]
     }
   ],
