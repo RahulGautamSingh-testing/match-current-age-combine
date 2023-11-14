@@ -1,12 +1,12 @@
 {
   "packageRules": [
-     {
-      "matchCurrentAge": "< 1 year",
-      "labels": ["newbies"]
-    },
       {
       "matchCurrentAge": "> 1 year",
        "labels": ["oldies"]
+    },
+     {
+      "matchCurrentAge": "< 1 year",
+      "labels": ["newbies"]
     }
   ],
   "prHourlyLimit": 10
