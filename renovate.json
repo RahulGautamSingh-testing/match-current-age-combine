@@ -2,11 +2,11 @@
   "packageRules": [
      {
       "matchCurrentAge": "< 1 year",
-      "groupName": "new-is-diamond"
+      "labels": "newbies"
     },
       {
-      "matchCurrentAge": "> 6 months",
-      "groupName": "old-is-gold"
+      "matchCurrentAge": "> 1 year",
+       "labels": "oldies"
     }
   ],
   "prHourlyLimit": 10
