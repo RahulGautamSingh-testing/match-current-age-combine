@@ -5,8 +5,9 @@
       "groupName": "old-is-gold"
     },
      {
-      "matchCurrentAge": "< 6 months",
+      "matchCurrentAge": "< 1 year",
       "groupName": "new-is-diamond"
     }
-  ]
+  ],
+  "prHourlyLimit": 10
 }
