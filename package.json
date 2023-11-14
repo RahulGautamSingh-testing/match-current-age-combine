@@ -1,0 +1,12 @@
+{
+  "packageRules": [
+    {
+      "matchCurrentAge": "> 6 months",
+      "groupName": "old-is-gold"
+    },
+     {
+      "matchCurrentAge": "< 6 months",
+      "groupName": "new-is-diamond"
+    }
+  ]
+}
