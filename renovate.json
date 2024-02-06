@@ -11,6 +11,6 @@
   ],
   "prHourlyLimit": 10,
    "vulnerabilityAlerts": {
-    "enabled": false
+    "enabled": true
   }
 }
