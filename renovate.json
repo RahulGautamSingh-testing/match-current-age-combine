@@ -1,16 +1,9 @@
 {
   "packageRules": [
-      {
-      "matchSourceUrls": "https://github.com/chalk/chalk",
-       "labels": ["oldies"]
-    },
      {
-      "matchSourceUrls": "https://github.com/remy/nodemon",
-      "labels": ["newbies"]
-    }
+  "matchCurrentAge": "> 6 months",
+  "addLabels": ["Overdue"]
+}
   ],
-  "prHourlyLimit": 10,
-   "vulnerabilityAlerts": {
-    "enabled": true
-  }
+  "prHourlyLimit": 10
 }
