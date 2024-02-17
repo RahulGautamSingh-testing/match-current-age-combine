@@ -1,9 +1,4 @@
 {
-  "packageRules": [
-     {
-  "matchCurrentAge": "> 6 months",
-  "addLabels": ["Overdue"]
-}
-  ],
+  "vulnerabilityAlerts": true,
   "prHourlyLimit": 10
 }
