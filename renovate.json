@@ -1,4 +1,5 @@
 {
   "vulnerabilityAlerts": true,
-  "prHourlyLimit": 10
+  "prHourlyLimit": 10,
+  "transitiveRemediation": true
 }
